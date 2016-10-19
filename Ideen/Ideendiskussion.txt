@@ -13,3 +13,6 @@ so etwa im look von "Virginia" (Hoffe ich habs richtig geschrieben).
 Tim:
 Das wäre auf jedenfall ziemlich cool. Low poly Grafik kann richtig gut aussehen. 
 Und mit einer fesselnden Story brauchen wir auch kein großes Gameplay. Dann wäre natürlich die Frage, was für ein Genre man nimmt.
+
+
+Anmerkung: Ich würde die Commitmessages nach folgendem Schema halten: " <Name> | <Commit Nachricht> "
