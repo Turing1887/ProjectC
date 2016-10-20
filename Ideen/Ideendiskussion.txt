@@ -14,5 +14,21 @@ Tim:
 Das wäre auf jedenfall ziemlich cool. Low poly Grafik kann richtig gut aussehen. 
 Und mit einer fesselnden Story brauchen wir auch kein großes Gameplay. Dann wäre natürlich die Frage, was für ein Genre man nimmt.
 
-
 Anmerkung: Ich würde die Commitmessages nach folgendem Schema halten: " <Name> | <Commit Nachricht> "
+
+Flo:
+Koennen wir gerne machen. Wobei mein erster Gedanke war, dass wir ja eigentlich ein ueberschaubarer Haufen an Team-kollegen bleiben werden - und unsere Gitnamen ja eigentlich untereinander kennen. Und diese stehen ja immer mit am Commit.
+
+Back2Topic: Das Problem an einer fesselnden Story ist genau das, die originelle und fesselnde Story!
+Vom kreativen Schreiben weiß ich, dass man recht schnell alte Muster wiederholt oder in Stereotypen abrutscht. Dazu kommt die
+Herausforderung einen Spannungsbogen aufrecht zu erhalten. Und das ganze noch nachvollziehbar realistisch zu gestalten.
+Stichwort: Kausalität. Das heißt, alle Ereignisse der Geschichte sollten kausal zusammenhängen. In einer guten Geschichte
+passiert nichts, was sich nicht aus dem Vorhergehenden ergibt.
+Hauptkonflikt, Personen und Dialoge müssen für eine gute Story zusammenspielen, genau wie Setting und Feeling.
+
+Aber sooo extrem und ernst wie ich das hier darstelle brauchen wir uns darum eigentlich keine Gedanken zu machen. Wenn wir uns
+zusammensetzten und eine simple, aber durchdachte (witzige/tragische/verwirrende?) Geschichte basteln, reicht das für uns MS'ler
+sicher. Hauptaufgabe sollte natürlich die technisch einwandfreie und gut durchstrukturierte Umsetzung darstellen.
+[Vor Allem wenn wir als Story eh sowas nehmen wie "Als Obdachloser in HH klarkommen", und das in Low-Poly umsetzten um mehr
+Aufmerksamkeit für Flaschensammler und Alkoholiker erzeugen zu wollen.] XD
+
