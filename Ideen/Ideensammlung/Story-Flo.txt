@@ -1,0 +1,34 @@
+###################
+Grobe Grundidee:
+        Die Menschheit schickt seit Jahrzehnten Botschaften ins Weltall um Kontakt zu anderen Lebensformen aufzunehmen.
+        Eine fremde Lebensform hat diese Signale bis zur Erde zurückverfolgt und heimlich eine große Anzahl an Menschen entführt.
+        
+        Diese sollen auf der Raumstation der Aliens als Sklaven arbeiten.
+        Der Spieler übernimmt einen der Alien-Aufpasser und muss dafür sorgen,
+        dass möglichst wenige Sterben. Aber zeitgleich die Aufgaben erledigt werden.
+        
+
+ Which continents does this world have? -  A Huge Spacecraft
+ Which cities are there?  - %
+ Who lives here? - The "Cabjakamaha", a alienrace with their human-worker-slaves
+ Are there interesting landmarks? - %
+ What could spawn conflict in this world? - slaves want to be free/eat/back to earth, and so on..
+ How did the nations come to their current form? - %
+ Are there contested borders? - sure. thoose humans try to esxape from their cells. stop them!
+ Do people have enough resources? (food, water, wood, "humans", etc) - No. your alienrace left the earth to travel deeper into the galaxy. there is a fixed number of humanSlaves.
+ What technologies exist? (magic? teleportation?) - I'm not sure. maybe alienshit, but maybe that's not necessary.
+ Are there specific cultures? - Aliens & Humans.
+ What kinds of governments are there? - you are just are small Supervisor. You Boss is in charge - don't let him down. 
+ Are people thriving or struggling in this place? - Some humans are freaking out. some are starving. ohters are fighting each other. make them work. keep them fresh.
+ 
+
+Spiel:
+ Man überwacht also die Menschensklaven und muss dafür sorgen das sie sich nicht gegenseitig umbringen, oder aufhören zu arbeiten.
+ Man könnte einbauen das ab und zu welche ausbrechen und events triggern. (Jage und Taser den Flüchtigen).
+ Als Ziel könnte man einen bestimmten Energielevel konstant halten müssen. (Möglichkeiten kurzzeitig viel energie zu erzeugen, wobei aber nach und nach die Menschen bei draufgehen).
+ 
+
+Gameplay:
+First-person. Low Poly. ( Oder aus der Draufsicht, dann wär es eine typische "Construction and management simulation" )
+Bei First-person müsste man halt Monitore im Auge behalten, aber auch hebel ziehen usw, und wirklich selber die Geflohenen tasern.
+Eventuell in Leveln aufgebaut, oder als ein großer erweiterbarer Raum. 
