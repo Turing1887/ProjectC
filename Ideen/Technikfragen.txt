@@ -1,0 +1,22 @@
+
+Projekt C : technische Inhalte
+
+Gedankenspielereien dazu:
+ - Permadeath?
+ - Statuswerte? (Gift/Lähmung/Verletzung/etc)
+ - Skilltree? (Kann auch simple sein: speed+0.1/critchance+0.5 || komplex: Doppelsprung/Unsichtbarkeit/etc)
+ - Inventar? (Macht oft Sinn, aber nicht immer *ORLY*?)
+ - ...
+ - ...
+ 
+ ______________
+ 
+ -> Zwangs-Skilltree?
+	Man MUSS jedes Level 1 punkt verteilen.
+	Alle Skillbaren sachen sind aber immer gut und schlecht.
+	z.b. "Hektikter": Schneller, aber Chance zu stolpern.
+	oder "Nasenbär": Super Geruchssinn, gelegentliches Niesen.
+	
+_______________
+
+-> ...
