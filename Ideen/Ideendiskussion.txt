@@ -61,4 +61,5 @@ dass die Zeit nur vergeht wenn man sich bewegt :]
 Wenn wir uns so ein spezial-feature einfallen lassen welches gut durchdacht und spieltechnisch sinnvoll ist, dann
 wär die Story zweitrangig. Gibt halt verschiedene Wege zu einem guten Spiel.
 
-
+Tim:
+^This. Sehe ich genauso. Aber für ein cooles Feature bräuchten wir zuerst ein Genre/grobe Story. Denn wenn wir das haben, können wir uns ein cooles Feature einfallen lassen, dass zu diesem Genre passt :) 
