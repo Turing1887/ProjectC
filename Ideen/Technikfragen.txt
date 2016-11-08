@@ -3,7 +3,7 @@ Projekt C : technische Inhalte
 
 Gedankenspielereien dazu:
  - Permadeath?
- - Statuswerte? (Gift/L�hmung/Verletzung/etc)
+ - Statuswerte? (Gift/L�hmung/Verletzung/etc)
  - Skilltree? (Kann auch simple sein: speed+0.1/critchance+0.5 || komplex: Doppelsprung/Unsichtbarkeit/etc)
  - Inventar? (Macht oft Sinn, aber nicht immer *ORLY*?)
  - ...
@@ -15,8 +15,14 @@ Gedankenspielereien dazu:
 	Man MUSS jedes Level 1 punkt verteilen.
 	Alle Skillbaren sachen sind aber immer gut und schlecht.
 	z.b. "Hektikter": Schneller, aber Chance zu stolpern.
-	oder "Nasenb�r": Super Geruchssinn, gelegentliches Niesen.
+	oder "Nasenb�r": Super Geruchssinn, gelegentliches Niesen.
 	
 _______________
 
 -> ...
+
+===Tim===
+Würde dann ja auf das Genre ankommen. Also ich hätte schon Bock RPG elemente á lá Skyrim einzubauen. 
+Und bei so Sachen wie Skilltrees kann man sich ja noch Innovationen einfallen lassen. 
+Also ich würde erstmal die Ideefrage klären und dann die Technikfrage :) 
+Aber gerne schonmal coole Dinge sammeln und festhalten aufjedenfall :D
