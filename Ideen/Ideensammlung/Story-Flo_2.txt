@@ -1,16 +1,16 @@
 
-Grundidee: Obdachloser in einer modernen Gro�stadt.
+Grundidee: Obdachloser in einer modernen Grossstadt.
 
 Man spielt einen obdachlosen Flaschensammler der sich irgendwie durchschlagen muss.
-Diebstahl? polizei/Knast? (M�glichkeit im Supermarkt zu klauen, oder woanders)
-Kampf gegen andere Obdachlose? m�glichkeiten seinen Schlafplatz, Waffen, usw upzugraden?
+Diebstahl? polizei/Knast? (Moeglichkeit im Supermarkt zu klauen, oder woanders)
+Kampf gegen andere Obdachlose? Moeglichkeiten seinen Schlafplatz, Waffen, usw upzugraden?
 Betteln als Minispiel?
 Egoperspektive in einer Low-Poly Welt?
 Drogenrausch?
 
 Ziel des Spieles?
 
-Der Vollst�ndigkeitshalber hier nochmal die QuestionList:
+Der Vollstaendigkeitshalber hier nochmal die QuestionList:
 ####
 Which continents does this world have? - 1 Big City
  Which cities are there?  - ^-
@@ -27,3 +27,10 @@ Which continents does this world have? - 1 Big City
  ===Tim===
  Cool wäre es ja wenn man quasi die Backstory des Obdachlosen aufarbeiten muss. Also wenn man während des Spielens erfährt wie er
  obdachlos geworden ist und so :+1:
+ 
+ ==Flo 09.Nov.2016==
+ Sehr gute Idee.
+ 
+ Zusätlich aus der Teamsitzung:
+  - Karmapunkte System
+  - ...
