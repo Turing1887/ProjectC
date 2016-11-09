@@ -1,0 +1,27 @@
+
+Auflistung aller benoetigten Scripte:
+(Sollte nach belieben erweitert werden - und fertige Scripte "streichen")
+
+
+
+>>> Charakter
+	> Bewegung & Interaktion
+	> Karma & Statuspunkte
+	> Lebenspunkte & Tod
+	> Level-up & Skillpunkte
+	> ...
+	
+>>> Welt
+	> GameManager (laedt Szenen/Events/Load u. Savefunktion/ Optionsmenue/usw)
+	> Tag-Nacht Wechsel
+	> Jahreszeiten Wechsel (**Noch besprechen ob zu aufwändig**)
+	> Wettersystem
+	> NPC-Verhalten
+		> Polizei
+		> Penner
+		> Passanten
+		> Verkaeufer
+		> ...
+	> Tierverhalten
+	> ...
+	

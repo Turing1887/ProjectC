@@ -1,0 +1,38 @@
+
+Auflistung aller benoetigten Meshes:
+(Sollte nach belieben erweitert werden - und fertige Dinge "streichen")
+
+
+
+>>> NPCs
+	> Polizei
+	> Penner
+	> Passanten
+	
+>>> Tiere
+	> Hunde
+	> Voegel
+	> Ratten
+
+>>> Welt
+	> Parkbank
+	> Muelleimer
+	> Strassenlaternen
+	> Bushaltestellen
+	> Strassenschilder
+	> Ampeln
+	> Zaeune
+	> PKWs
+	> LKWs/Busse
+	> Pfandautomat (im Supermarkt)
+	> Baeume & Straeucher
+	> Wolken & Regen
+	> ...
+	> ...
+	
+>>> Objekte
+	> Pfandflaschen & Dosen
+	> Waffen (Flasche/Stock/Messer/etc)
+	> ...
+	> ...
+	

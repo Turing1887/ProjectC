@@ -45,3 +45,20 @@ Which continents does this world have? - 1 Big City
   - Alkohol
   - Kleidung/Outfits?
   - Skilltree
+  
+  
+  Ergänzende Einfälle:
+  
+  Setzen wir eine maximale Anzahl an Polygonen pro Objekt/Mesh fest?
+  Oder unterscheiden wir da je nach bedarf?
+  (macht vielleicht Sinn einigen hauptdingen mehr zu geben, als anderen)
+  
+  Da ja u.U. jeder ein paar Objekte erstellt:
+  Setzen wir vorher gemeinsame Einstellungen in Blender fest?
+  Nich das einer alles winzig oder riesig baut und das nach dem Scalieren komisch aussieht oder sowas.
+  
+  Verwenden wir eine Farbpalette?
+  Um einheitliche/zusammenpassende Objekte zu erschaffen?
+  Oder sagen wir nur einer kümmert sich um die Texturen und der stimmt das dann aufeinander ab?
+  
+  
