@@ -1,3 +1,7 @@
+﻿==========================================
+DIESE STORY IST UNSERE MAINSTORY
+==========================================
+
 
 Grundidee: Obdachloser in einer modernen Grossstadt.
 
@@ -33,4 +37,11 @@ Which continents does this world have? - 1 Big City
  
  Zusätlich aus der Teamsitzung:
   - Karmapunkte System
-  - ...
+  - Bedürfnisse(Harndrang, Hunger/Durst, Energie etc...)
+  - Tag und Nachtwechsel?
+  - Definitiv Polizei
+  - Haustier? Elefant?
+  - Waffen
+  - Alkohol
+  - Kleidung/Outfits?
+  - Skilltree
