@@ -52,13 +52,21 @@ Which continents does this world have? - 1 Big City
   Setzen wir eine maximale Anzahl an Polygonen pro Objekt/Mesh fest?
   Oder unterscheiden wir da je nach bedarf?
   (macht vielleicht Sinn einigen hauptdingen mehr zu geben, als anderen)
+
+Tim
+---> Also ich bin dafür, da eine festgesetzte Polygonanzahl verhindert das unsere Meshes mega unterschiedlich aussehen
   
   Da ja u.U. jeder ein paar Objekte erstellt:
   Setzen wir vorher gemeinsame Einstellungen in Blender fest?
   Nich das einer alles winzig oder riesig baut und das nach dem Scalieren komisch aussieht oder sowas.
+
+Tim
+---> Generell ja, aber man sieht ja wenn etwas komisch aussieht in Unity und kann das dementsprechend skalieren. Ansonsten gerne drüber reden
   
   Verwenden wir eine Farbpalette?
   Um einheitliche/zusammenpassende Objekte zu erschaffen?
   Oder sagen wir nur einer kümmert sich um die Texturen und der stimmt das dann aufeinander ab?
   
-  
+Tim 
+---> Also eine allgemeine Farbpalette festlegen macht durchaus Sinn m.M.n. Wir können ja die Meshes mal aufteilen :) Und wenn man mit einem Mesh anfängt sollte man seinen Namen
+dahinter schreiben um Redundanzen zu vermeiden :)

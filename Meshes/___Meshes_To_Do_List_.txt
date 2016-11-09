@@ -15,7 +15,7 @@ Auflistung aller benoetigten Meshes:
 	> Ratten
 
 >>> Welt
-	> Parkbank
+	> Parkbank <--- Tim (können wir einführen, dass wir die Namen dahinter schreiben wenn wir etwas bearbeiten, damit keiner was doppelt macht?)
 	> Muelleimer
 	> Strassenlaternen
 	> Bushaltestellen
@@ -27,12 +27,14 @@ Auflistung aller benoetigten Meshes:
 	> Pfandautomat (im Supermarkt)
 	> Baeume & Straeucher
 	> Wolken & Regen
-	> ...
+	> Häuser!
 	> ...
 	
 >>> Objekte
 	> Pfandflaschen & Dosen
 	> Waffen (Flasche/Stock/Messer/etc)
-	> ...
+	> Beutel
+	> Lebensmittel
+	> Geld?
 	> ...
 	
