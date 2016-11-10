@@ -43,7 +43,7 @@ Auflistung aller benoetigten Meshes:
 	> Zigarettenautomat
 	> Parkanlage
 	> Denkmal
-	> gelbe Säcke (vlt direkt als Haufen)
+	> gelbe SÃ¤cke (vlt direkt als Haufen)
 	> Kinderspielplatz
 	> ...
 	
@@ -66,7 +66,7 @@ Auflistung aller benoetigten Meshes:
 ######################
 
 	> Parkbank : Tim
-	
+	> Stopschild: Tim
 	
 	
 	
