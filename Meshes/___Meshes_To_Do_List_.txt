@@ -1,6 +1,7 @@
 
 Auflistung aller benoetigten Meshes:
-(Sollte nach belieben erweitert werden - und fertige Dinge "streichen")
+(Sollte nach belieben erweitert werden - und 
+ fertige Dinge in den BearbeitungsAbsatz verschieben!)
 
 
 
@@ -15,8 +16,8 @@ Auflistung aller benoetigten Meshes:
 	> Ratten
 
 >>> Welt
-	> Parkbank <--- Tim (können wir einführen, dass wir die Namen dahinter schreiben wenn wir etwas bearbeiten, damit keiner was doppelt macht?)
-	> Muelleimer
+	> Muelleimer (an Laternen/auf Metallstuetzen)
+	> Muelltonnen (vor Haeusern an der Strasse stehend)
 	> Strassenlaternen
 	> Bushaltestellen
 	> Strassenschilder
@@ -27,7 +28,23 @@ Auflistung aller benoetigten Meshes:
 	> Pfandautomat (im Supermarkt)
 	> Baeume & Straeucher
 	> Wolken & Regen
-	> Häuser!
+	> Haeuser (Reihenhaeuser/Wohnblock)
+	> Litfasssaeule
+	> Stromkasten
+	> Fahrradstaender
+	> Blumenbeete
+	> Springbrunnen
+	> (politische) Wahlschilder (vlt auch sarkastisch "Jeder bekommt ein Zuhause - CDU")
+	> Baustellen (Container/Absperrungen/Bauzaun)
+	> Dixi-Toilette
+	> Altpapier- und AltglasContainer
+	> AltkleiderBox
+	> Telefonzelle (Man, that's so 1996^^)
+	> Zigarettenautomat
+	> Parkanlage
+	> Denkmal
+	> gelbe Säcke (vlt direkt als Haufen)
+	> Kinderspielplatz
 	> ...
 	
 >>> Objekte
@@ -36,5 +53,27 @@ Auflistung aller benoetigten Meshes:
 	> Beutel
 	> Lebensmittel
 	> Geld?
+	> Fahrrad
+	> Regenschirm (NPCs/Charakter)
+	> Einkaufwagen (Inventarerweiterung?)
 	> ...
+	> ...
+	
+
+
+######################
+ IN BEARBEITUNG : VON
+######################
+
+	> Parkbank : Tim
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	

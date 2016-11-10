@@ -68,5 +68,54 @@ Tim
   Oder sagen wir nur einer kümmert sich um die Texturen und der stimmt das dann aufeinander ab?
   
 Tim 
----> Also eine allgemeine Farbpalette festlegen macht durchaus Sinn m.M.n. Wir können ja die Meshes mal aufteilen :) Und wenn man mit einem Mesh anfängt sollte man seinen Namen
-dahinter schreiben um Redundanzen zu vermeiden :)
+---> Also eine allgemeine Farbpalette festlegen macht durchaus Sinn m.M.n. Wir können ja die Meshes mal aufteilen :) 
+Und wenn man mit einem Mesh anfängt sollte man seinen Namen dahinter schreiben um Redundanzen zu vermeiden :)
+
+=== Flo 10.Nov.2016 ==
+Ja, oder wir haben noch ein Absatz "In Bearbeitung:" wo man dann Mesh_Namen und Bearbeiter einträgt.
+z.B.:  Einkaufswagen [Florian]
+
+Desweitern dachte ich an ein 'Negativ-Neutral-Positiv' - Beziehungssystem zu anderen Obdachlosen.
+Das man Beziehungen verbessern und verschlechtern kann.
+
+Eventuel auch durch ein Questsystem:
+ > Bringe John ein Sixpack
+ > Hilf Jill vor dem streunernden Hund
+ > Marco will das du John ne Abreibung verpasst
+ > ...
+ 
+Und ich dachte es wäre gut, dass es mehr als nur einen Supermarkt gibt.
+Also noch einen "Tante-Emma"-Laden an der Ecke oder so.
+Wenn man sonst bei einem Hausverbot für 14 Tage hat, kann man in der Zeit
+unter Umstaenden zuwenig machen? 
+
+Ist auch die Frage wie ein MiniSpiel für das Betteln aussehen könnte?
+eine Art geschicklichkeit-Spiel, dass vlt von deinen statuswerten beeinflusst wird?
+z.b. im richtigen Moment klicken, wenn ein Balken so nah wie möglich an 100% ist, 
+um Mitleid bei Passanten auszulösen und so Geld gespentet zu kommen.
+Der Wert "Rest-Alk" oder Ähnliches könnte dann dafür sorgen, dass der Balken
+stärker 'Springt', und das timming erschwert.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

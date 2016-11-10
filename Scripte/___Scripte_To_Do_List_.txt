@@ -23,5 +23,6 @@ Auflistung aller benoetigten Scripte:
 		> Verkaeufer
 		> ...
 	> Tierverhalten
+	> Ampel-Schaltung (beeinflusst NPC Verhalten_Script)
 	> ...
 	
