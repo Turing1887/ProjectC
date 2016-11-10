@@ -1,0 +1,25 @@
+
+! 	see also:  
+	https://docs.unity3d.com/ScriptReference/AudioClip.html  
+	for more informations about SoundFiles in Unity !
+  
+
+(Please list new added Soundfiles into the list below:)
+List of SoundFiles so far:
+
+Weapons:
+	Gun:
+		> gun_shot_1
+		> gun_shot_2
+	
+	Knife:
+		> knife_1
+		
+	Fist:
+		> punch_1
+		> punch_2
+		
+		
+		
+		
+		
