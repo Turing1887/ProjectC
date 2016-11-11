@@ -1,0 +1,22 @@
+
+
+! 	see also:  
+	https://docs.unity3d.com/ScriptReference/Animation.html
+	for more informations about Animations in Unity !
+  
+
+List of necessary Animations:
+
+Character:
+	Movement:
+		> 
+		> 
+	
+	Weapons:
+		> 
+		
+	
+		
+		
+		
+

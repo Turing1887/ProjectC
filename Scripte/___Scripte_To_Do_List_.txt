@@ -1,8 +1,11 @@
 
-Auflistung aller benoetigten Scripte:
-(Sollte nach belieben erweitert werden - und fertige Scripte "streichen")
+Auflistung aller Scripte:
+(Sollte nach belieben/bedarf erweitert werden -
+ und fertige Scripte, oder jene in Bearbeitung,
+ in den jeweiligen Absatz verschieben!)
 
-
+ 
+##### benoetigte Scripte #####
 
 >>> Charakter
 	> Bewegung & Interaktion
@@ -26,3 +29,16 @@ Auflistung aller benoetigten Scripte:
 	> Ampel-Schaltung (beeinflusst NPC Verhalten_Script)
 	> ...
 	
+
+	
+###### In Bearbeitung : von ######
+
+
+
+
+
+###### Fertige Scripte : [Anmerkungen] ######
+
+
+
+
