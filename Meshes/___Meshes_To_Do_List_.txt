@@ -1,4 +1,4 @@
-
+﻿
 Auflistung aller benoetigten Meshes:
 (Sollte nach belieben erweitert werden - und 
  fertige Dinge in den BearbeitungsAbsatz verschieben!)
@@ -6,9 +6,11 @@ Auflistung aller benoetigten Meshes:
 
 
 >>> NPCs
-	> Polizei
-	> Penner
-	> Passanten
+	>Blanko_Human_Male
+	>Blanko_Human_Female
+		> Polizei
+		> Penner
+		> Passanten
 	
 >>> Tiere
 	> Hunde
@@ -48,6 +50,7 @@ Auflistung aller benoetigten Meshes:
 	> ...
 	
 >>> Objekte
+	> Arme des Characters (!)
 	> Pfandflaschen & Dosen
 	> Waffen (Flasche/Stock/Messer/etc)
 	> Beutel
@@ -60,9 +63,14 @@ Auflistung aller benoetigten Meshes:
 	> ...
 	
 
-
 ######################
  IN BEARBEITUNG : VON
+######################
+
+	> >Blanko_Human_Male : Florian
+
+######################
+ FERTIGE MESHES : VON
 ######################
 
 	> Parkbank : Tim
