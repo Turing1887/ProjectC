@@ -68,7 +68,7 @@ Auflistung aller benoetigten Meshes:
 	> Muelleimer (an Laternen/auf Metallstuetzen) : Florian
 	> Bushaltestellen : Florian
 	> Pfandautomat (im Supermarkt) : Florian
-	
+	> Pistole : Tim
 
 ######################
  FERTIGE MESHES : VON
