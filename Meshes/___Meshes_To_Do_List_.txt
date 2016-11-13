@@ -18,16 +18,13 @@ Auflistung aller benoetigten Meshes:
 	> Ratten
 
 >>> Welt
-	> Muelleimer (an Laternen/auf Metallstuetzen)
 	> Muelltonnen (vor Haeusern an der Strasse stehend)
 	> Strassenlaternen
-	> Bushaltestellen
 	> Strassenschilder
 	> Ampeln
 	> Zaeune
 	> PKWs
 	> LKWs/Busse
-	> Pfandautomat (im Supermarkt)
 	> Baeume & Straeucher
 	> Wolken & Regen
 	> Haeuser (Reihenhaeuser/Wohnblock)
@@ -68,6 +65,10 @@ Auflistung aller benoetigten Meshes:
 ######################
 
 	> >Blanko_Human_Male : Florian
+	> Muelleimer (an Laternen/auf Metallstuetzen) : Florian
+	> Bushaltestellen : Florian
+	> Pfandautomat (im Supermarkt) : Florian
+	
 
 ######################
  FERTIGE MESHES : VON
