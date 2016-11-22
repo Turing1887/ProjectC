@@ -5,3 +5,4 @@ List:
 * https://gamedevelopment.tutsplus.com/tutorials/game-ui-by-example-a-crash-course-in-the-good-and-the-bad--gamedev-3943 <-- How to UI
 * http://retrosharkk.tumblr.com/post/127435279810/low-poly-blender-tutorial-basics <-- intro to lowpoly in blender 
 * https://unity3d.com/de/learn/tutorials/topics/graphics/terrain-introduction-heightmaps <-- lovely explained heightmap
+* https://vectr.com/ <-- Free and awesome design software
