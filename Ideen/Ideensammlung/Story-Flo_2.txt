@@ -157,6 +157,57 @@ kann man immernoch gucken was man brauch. Aber alleine durch die Story sollte wa
 
 
 
+=== Flo - 02.Dez.2016 ===
+
+Aktuelle StoryVersion:
+
+Projektbeschreibung:    
+Der Spieler übernimmt die Rolle des obdachlosen Clochard, und versucht in einem Großstadt-Dschungel zu überleben. Dabei
+erkundet man die Umgebung und interagiert mit anderen Bewohnern der Stadt. Die Hintergrundgeschichte des Protagonisten wird
+dabei peu à peu in Clochards Träumen aufgearbeitet. So erfährt man langsam wie er in diese Situation gekommen ist. 
+Gleichzeitig muss man für seine Grundbedürfnisse sorgen, denn natürlich braucht Clochard Dinge wie zum Beispiel: Nahrung,
+Wasser, Schlaf und Medikamente. Man hat die Möglichkeit zu betteln um an Geld zu kommen, oder entscheidet sich zu stehlen.
+Letzteres kann Konsequenzen nach sich ziehen, so dass die Polizei aufmerksam wird oder man sogar im Gefängnis landet. Gleiches
+passiert z.B. wenn man an Orten schläft, an denen es nicht erlaubt ist. In einem Inventar werden Gegenstände angesammelt von
+denen einige nur als Schlüsselobjekte dienen, andere hingegen können auch richtig benutzt und eingesetzt werden (Pfandflaschen,
+Waffen, usw).  
+Es soll kein freies Sandbox Spiel werden, sondern die Story im Vordergrund stehen.
+
+
+Story:
+Im Intro bekommt man mit, wie Clochard von miesen Typen an einen Stuhl gebunden und verprügelt wird. Sie wollen ihr Geld 
+zurück und drohen damit seiner Frau etwas anzutun.
+Nachdem Clochard mehrmals sagt, dass er das Geld jetzt nicht hat, schlagen die Kerle ihn bewusstlos.
+Für den Spieler beginnt die Geschichte auf einem Frachter, der sich auf die Inselstadt Murino zubewegt. Clochard erwacht an
+Deck ohne jeglichen Besitz. Kein Geld, kein Perso, kein Handy. Nur ein Polaroid von seiner gefesselten Frau auf welches mit
+Edding “NO COPS!” gekritzelt wurde. Am liebsten würde er an Deck bleiben und direkt wieder zurück fahren, doch die Crew
+scheucht ihn von Bord.
+
+
+Mittellos und hungrig hat Clochard nur ein Ziel: Genug Geld auftreiben um mit einem Schiff zurück in seine Stadt zu reisen 
+und nach seiner Frau zu sehen! 
+
+
+Schnell findet man neue Freunde und Probleme auf der Insel. Ein netter Obdachloser hilft einem zu Beginn (Tutorial)
+zurechtzukommen. Die Gründe für die Auseinandersetzung mit den miesen Typen erfährt der Spieler dabei Stückchen für Stückchen
+gelegentlich Nachts in Clochards Träumen.
+In diesen Verarbeitet er die Vergangenheit und der Spieler kann so einige Schlüsselmomente miterleben und erfährt so, wieso
+Clochard sich Geld geliehen hat, und wer die Frau auf dem Polaroid ist.
+
+
+Schafft man es die Kosten für ein Schiffsticket aufzutreiben, und wenn mehr als 21 Tage (Verhandlungsbasis: Anzahl der Tage
+noch nicht sicher) auf der Insel Murino vergangen sind, dann kann man mit dem Schiff zurück reisen.
+Der Spieler erlebt dann im Abspann das fröhliche Wiedersehen der Familie von Clochard. Sie haben sich sorgen um ihn gemacht,
+denn sie wussten nicht wo er hingebracht worden war. Die fiesen Kerle haben in der Zwischenzeit ihre gerechte Strafe bekommen.
+Und Cochard und seine Familie leben glücklich bis ans Ende ihrer Tage. Fin.
+
+
+
+Technische Umsetzung:
+Einzelspieler aus der Egoperspektive. 
+3D Unity Welt gefüllt mit Low poly Objekten aus Blender.
+Großteil der Animationen aus dem MoCap-Labor, restlichen am Pc erstellen.
+Audio: Englisch per Mikrofon selbst aufgenommen.
 
 
 
