@@ -70,7 +70,10 @@ Auflistung aller benoetigten Meshes:
 	> Pfandautomat (im Supermarkt) : Florian
 	> Pistole : Tim
 	> Litfasssäule ohne Textur : Cisco
-
+	> Fahrradständer ohne textur : Cisco
+	> Altglascontainer ohne Textur : Cisco
+	> Ampel : Florian
+	
 ######################
  FERTIGE MESHES : VON
 ######################
