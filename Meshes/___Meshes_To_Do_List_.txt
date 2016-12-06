@@ -69,6 +69,7 @@ Auflistung aller benoetigten Meshes:
 	> Bushaltestellen : Florian
 	> Pfandautomat (im Supermarkt) : Florian
 	> Pistole : Tim
+	> Litfasssäule ohne Textur : Cisco
 
 ######################
  FERTIGE MESHES : VON
