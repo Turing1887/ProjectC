@@ -16,7 +16,7 @@ Auflistung aller Scripte:
 	> Karma & Statuspunkte
 	> Lebenspunkte & Tod
 	> Level-up & Skillpunkte
-	> ...
+	> Inventar
 	
 >>> Welt
 	> GameManager (laedt Szenen/Events/Load u. Savefunktion/ Optionsmenue/usw)
@@ -37,6 +37,7 @@ Auflistung aller Scripte:
 	
 ###### In Bearbeitung : von ######
 
+Save u. Load Funktion : Tim
 
 
 
