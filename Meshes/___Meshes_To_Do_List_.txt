@@ -76,7 +76,8 @@ Auflistung aller benoetigten Meshes:
 	> Altglascontainer ohne Textur : Cisco
 	> Ampel : Florian
 	> Zigarettenautomat : Cisco
-	> Baum : cisco
+	> Baum : Cisco
+	> Maus : Cisco
 	
 ######################
  FERTIGE MESHES : VON
