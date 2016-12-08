@@ -23,7 +23,8 @@ Auflistung aller benoetigten Meshes:
 	> Strassenschilder
 	> Ampeln
 	> Zaeune
-	> PKWs
+
+> PKWs
 	> LKWs/Busse
 	> Baeume & Straeucher
 	> Wolken & Regen
@@ -75,6 +76,7 @@ Auflistung aller benoetigten Meshes:
 	> Altglascontainer ohne Textur : Cisco
 	> Ampel : Florian
 	> Zigarettenautomat : Cisco
+	> Baum : cisco
 	
 ######################
  FERTIGE MESHES : VON
