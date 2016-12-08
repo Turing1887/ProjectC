@@ -30,7 +30,8 @@ Auflistung aller benoetigten Meshes:
 	> Haeuser (Reihenhaeuser/Wohnblock)
 	> Litfasssaeule
 	> Stromkasten
-	> Fahrradstaender
+
+> Fahrradstaender
 	> Blumenbeete
 	> Springbrunnen
 	> (politische) Wahlschilder (vlt auch sarkastisch "Jeder bekommt ein Zuhause - CDU")
@@ -73,6 +74,7 @@ Auflistung aller benoetigten Meshes:
 	> Fahrradständer ohne textur : Cisco
 	> Altglascontainer ohne Textur : Cisco
 	> Ampel : Florian
+	> Zigarettenautomat : Cisco
 	
 ######################
  FERTIGE MESHES : VON
