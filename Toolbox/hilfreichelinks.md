@@ -7,3 +7,7 @@ List:
 * https://unity3d.com/de/learn/tutorials/topics/graphics/terrain-introduction-heightmaps <-- lovely explained heightmap
 * https://vectr.com/ <-- Free and awesome design software
 * https://github.com/ellisonleao/magictools <--- IS COOL!
+
+
+UNITY:
+* https://unity3d.com/de/learn/tutorials/topics/physics/physics-best-practices?playlist=30089
