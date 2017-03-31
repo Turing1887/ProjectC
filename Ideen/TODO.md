@@ -6,10 +6,11 @@
   - Finde Flaschen -> Abgeben
   - Kaufe von dem Geld etwas zuessen(halb-tot?)
 * Scripte:
-  - Fall damage
+  - Fall damage **[FLO]**
+  - damage/playerhealth/playermanager
   - anti wasser lösung?
-  - lade script
-  - kauf/klau (e aufnehmen/klauen - q kaufen)
+  - ladescript **[TIM]** 
+  - kauf/klau (e aufnehmen/klauen - q kaufen) **[TIM]**
   - sound 
   
 * Sound:
@@ -23,9 +24,9 @@
   
 
 * Objekte:
-  - Menschen
-  - Hafenbar interior
-  - PLAYER(arme)
+  - Menschen **[FLO]**
+  - Hafenbar interior(+Collider) **[Cisco]**
+  - PLAYER(arme) **[FLO]**
   - Fahrzeuge
   - waffen
   
